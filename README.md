@@ -55,4 +55,4 @@
 | Third Party Product | 第三方产品 | Dì sān fāng chǎn pǐn |
 | Transport Layer Security (TLS) | 传输层安全性 | Chuán shū céng ān quán xìng |
 | Virtual Machine | 虚拟机 | Xū nǐ jī |
-| Virtual Machine Instance | 虚机实例 | Xū jī shí lì | Abbreviation: 实例 (typically means instance) |
+| Virtual Machine Instance | 虚拟实例 | Xū nǐ shí lì | Abbreviation: 实例 (instance) |

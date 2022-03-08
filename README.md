@@ -1,7 +1,7 @@
 # English-Chinese Technical / Business Terms
-This is a cheatsheet of technical / business terms which are commonly used in the context of Cloud Computing.
+This is a cheatsheet of technical / business terms which are used commonly in the context of Cloud Computing.
 
-| English | Chinese | Hanyu Pinyin | Remarks |
+| English | Chinese | Hànyǔ Pīnyīn | Remarks |
 | ----------- | ----------- | ----------- | ----------- |
 | API | 应用程序接口 | Yìng yòng chéng xù jiē kǒu |
 | Amazon Web Services | 亚马逊云科技 | Yà mǎ xùn yún kē jì |
@@ -54,4 +54,4 @@ This is a cheatsheet of technical / business terms which are commonly used in th
 | Third Party Product | 第三方产品 | Dì sān fāng chǎn pǐn |
 | Transport Layer Security (TLS) | 传输层安全性 | Chuán shū céng ān quán xìng |
 | Virtual Machine | 虚拟机 | Xū nǐ jī |
-| Virtual Machine Instance | 虚机实例 | Xū jī shí lì | also known as 实例 |
+| Virtual Machine Instance | 虚机实例 | Xū jī shí lì | Also known as 实例 |

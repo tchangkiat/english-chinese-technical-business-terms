@@ -4,6 +4,7 @@ This is a cheatsheet of technical / business terms which are commonly used in th
 | English | Chinese | Hanyu Pinyin | Remarks |
 | ----------- | ----------- | ----------- | ----------- |
 | API | 应用程序接口 | Yìng yòng chéng xù jiē kǒu |
+| Amazon Web Services | 亚马逊云科技 | Yà mǎ xùn yún kē jì |
 | Application | 应用程序 | Yìng yòng chéng xù |
 | Assess System Architecture | 评估系统架构 | Píng gū Xì tǒng jià gòu |
 | Authentication | 验证 | Yàn zhèng |
@@ -33,7 +34,7 @@ This is a cheatsheet of technical / business terms which are commonly used in th
 | Load Balancer | 负载均衡器 | Fù zǎi jūn héng qì |
 | Logs | 日志 | Rìzhì |
 | Managed Service | 托管服务 | Tuō guǎn fú wù |
-| Microservice | 微服务 | Wéi fúwù |
+| Microservice | 微服务 | Wéi fú wù |
 | Offload Traffic | 卸载流量 | Xiè zài liú liàng |
 | Operating System | 操作系统 | Cāo zuò xì tǒng |
 | Port | 端口 | Duān kǒu | In the context of TCP / UDP |
@@ -50,3 +51,7 @@ This is a cheatsheet of technical / business terms which are commonly used in th
 | Secure Sockets Layer (SSL) | 安全套接字层 | Ān quán tào jiē zì céng |
 | Storage | 贮存 | Zhù cún |
 | Subnet | 子网 | Zǐ wǎng | Public Subnet: 公有子网, Private Subnet: 私有子网 |
+| Third Party Product | 第三方产品 | Dì sān fāng chǎn pǐn |
+| Transport Layer Security (TLS) | 传输层安全性 | Chuán shū céng ān quán xìng |
+| Virtual Machine | 虚拟机 | Xū nǐ jī |
+| Virtual Machine Instance | 虚机实例 | Xū jī shí lì | also known as 实例 |

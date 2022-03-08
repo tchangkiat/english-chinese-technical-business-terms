@@ -23,9 +23,21 @@ This is a cheatsheet of technical / business terms which are commonly used in th
 | Deploy | 部署 | Bù shǔ |
 | Edge Location | 边缘位置 | Biān yuán wèi zhì |
 | Elastic | 弹性 | Tán xìng | E.g. Elastic IP = 弹性IP |
+| Enterprise Support | 企业支持 | Qǐ yè zhī chí
 | Error Message | 错误信息 | Cuò wù xìn xī |
 | Event-Driven | 事件驱动 | Shì jiàn qū dòng |
 | False Positive | 假阳性 | Jiǎ yáng xìng |
 | Fault Tolerance | 容错 | Róng cuò |
-| Function | 函数 | hánshù | In the context of code functions
+| Function | 函数 | hán shù | In the context of code functions
 | High Availability | 高可用 | Gāo kě yòng |
+| Load Balancer | 负载均衡器 | Fù zǎi jūn héng qì |
+| Logs | 日志 | Rìzhì |
+| Managed Service | 托管服务 | Tuō guǎn fú wù |
+| Microservice | 微服务 | Wéi fúwù |
+| Offload Traffic | 卸载流量 | Xiè zài liú liàng |
+| Operating System | 操作系统 | Cāo zuò xì tǒng |
+| Port | 端口 | Duān kǒu | In the context of TCP / UDP |
+| Principle of Least Privilege | 最小特权原则 | Zuì xiǎo tè quán yuán zé |
+| Queue | 队列 | Duì liè |
+| Raise a Support Ticket | 申请支持票 | Shēn qǐng zhī chí piào |
+| Route Table | 路由表 | Lù yóu biǎo |

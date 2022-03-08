@@ -1,6 +1,3 @@
-# English-Chinese Technical / Business Terms
-This is a cheatsheet of technical / business terms which are used commonly in the context of Cloud Computing.
-
 | English | Chinese | Hànyǔ Pīnyīn | Remarks |
 | ----------- | ----------- | ----------- | ----------- |
 | API | 应用程序接口 | Yìng yòng chéng xù jiē kǒu |

@@ -34,7 +34,7 @@
 | Logs | 日志 | Rìzhì |
 | Managed Service | 托管服务 | Tuō guǎn fú wù |
 | Microservice | 微服务 | Wéi fú wù |
-| Network Access Control List (NACL) | 网络ACL |
+| Network Access Control List (NACL) | 网络ACL | Wǎngluò ACL |
 | Offload Traffic | 卸载流量 | Xiè zài liú liàng |
 | Operating System | 操作系统 | Cāo zuò xì tǒng |
 | Port | 端口 | Duān kǒu | In the context of TCP / UDP |

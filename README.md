@@ -1,8 +1,9 @@
 | English | Chinese | Hànyǔ Pīnyīn | Remarks |
 | ----------- | ----------- | ----------- | ----------- |
+| Access | 访问 | fǎng wèn | Another meaning of the Chinese term is "to interview (someone)". In the context of cloud computing, it means access.
 | API | 应用程序接口 | Yìng yòng chéng xù jiē kǒu |
 | Amazon Web Services | 亚马逊云科技 | Yà mǎ xùn yún kē jì |
-| Application | 应用程序 | Yìng yòng chéng xù |
+| Application | 应用程序 | Yìng yòng chéng xù | Application Server: 应用服务器 |
 | Assess System Architecture | 评估系统架构 | Píng gū Xì tǒng jià gòu |
 | Authentication | 验证 | Yàn zhèng |
 | Authorization | 授权 | Shòu quán |
@@ -10,6 +11,7 @@
 | Bandwidth | 带宽 | Dài kuān |
 | Cache | 缓存  | Huǎn cún |
 | Certificate Authority | 证书颁发机构 | Zhèng shū bān fā jī gòu |
+| Code Repository | 代码库 | Dài mǎ kù |
 | Compliance standards | 合规标准 | Hé guī biāo zhǔn |
 | Compliant | 符合 | Fúhé |
 | Container | 容器 | Róng qì |
@@ -26,12 +28,13 @@
 | Event-Driven | 事件驱动 | Shì jiàn qū dòng |
 | False Positive | 假阳性 | Jiǎ yáng xìng |
 | Fault Tolerance | 容错 | Róng cuò |
-| Function | 函数 | hán shù | In the context of code functions
+| Function | 函数 | hán shù | In the context of code functions.
 | High Availability | 高可用 | Gāo kě yòng |
 | Load Balancer | 负载均衡器 | Fù zǎi jūn héng qì |
 | Logs | 日志 | Rìzhì |
 | Managed Service | 托管服务 | Tuō guǎn fú wù |
 | Microservice | 微服务 | Wéi fú wù |
+| Network Access Control List (NACL) | 网络ACL |
 | Offload Traffic | 卸载流量 | Xiè zài liú liàng |
 | Operating System | 操作系统 | Cāo zuò xì tǒng |
 | Port | 端口 | Duān kǒu | In the context of TCP / UDP |
@@ -43,12 +46,13 @@
 | Security Posture | 安全态势 | Ān quán tài shì |
 | Server | 服务器 | Fú wù qì |
 | Serverless | 无服务器 | Wú fú wù qì |
-| Single Point of Failure | 单点故障 | Dān diǎn gù zhàng |
 | Service Level Agreement | 服务水平协议 | Fú wù shuǐ píng xié yì |
 | Secure Sockets Layer (SSL) | 安全套接字层 | Ān quán tào jiē zì céng |
+| Single Point of Failure | 单点故障 | Dān diǎn gù zhàng |
+| Solution | 解决方案 | Jiě jué fāng àn |
 | Storage | 贮存 | Zhù cún |
 | Subnet | 子网 | Zǐ wǎng | Public Subnet: 公有子网, Private Subnet: 私有子网 |
 | Third Party Product | 第三方产品 | Dì sān fāng chǎn pǐn |
 | Transport Layer Security (TLS) | 传输层安全性 | Chuán shū céng ān quán xìng |
 | Virtual Machine | 虚拟机 | Xū nǐ jī |
-| Virtual Machine Instance | 虚机实例 | Xū jī shí lì | Also known as 实例 |
+| Virtual Machine Instance | 虚机实例 | Xū jī shí lì | Abbreviation: 实例 (typically means instance) |

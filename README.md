@@ -4,7 +4,7 @@ This is a cheatsheet of technical / business terms which are commonly used in th
 | English | Chinese | Hanyu Pinyin | Remarks |
 | ----------- | ----------- | ----------- | ----------- |
 | API | 应用程序接口 | Yìng yòng chéng xù jiē kǒu |
-| Application Server | 应用服务器 | Yìng yòng fú wù qì |
+| Application | 应用程序 | Yìng yòng chéng xù |
 | Assess System Architecture | 评估系统架构 | Píng gū Xì tǒng jià gòu |
 | Authentication | 验证 | Yàn zhèng |
 | Authorization | 授权 | Shòu quán |
@@ -41,3 +41,12 @@ This is a cheatsheet of technical / business terms which are commonly used in th
 | Queue | 队列 | Duì liè |
 | Raise a Support Ticket | 申请支持票 | Shēn qǐng zhī chí piào |
 | Route Table | 路由表 | Lù yóu biǎo |
+| Security Group | 安全组 | Ān quán zǔ |
+| Security Posture | 安全态势 | Ān quán tài shì |
+| Server | 服务器 | Fú wù qì |
+| Serverless | 无服务器 | Wú fú wù qì |
+| Single Point of Failure | 单点故障 | Dān diǎn gù zhàng |
+| Service Level Agreement | 服务水平协议 | Fú wù shuǐ píng xié yì |
+| Secure Sockets Layer (SSL) | 安全套接字层 | Ān quán tào jiē zì céng |
+| Storage | 贮存 | Zhù cún |
+| Subnet | 子网 | Zǐ wǎng | Public Subnet: 公有子网, Private Subnet: 私有子网 |

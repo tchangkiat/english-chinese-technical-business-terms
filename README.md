@@ -41,6 +41,7 @@
 | Principle of Least Privilege | 最小特权原则 | Zuì xiǎo tè quán yuán zé |
 | Queue | 队列 | Duì liè |
 | Raise a Support Ticket | 申请支持票 | Shēn qǐng zhī chí piào |
+| Reserved Instances | 预留实例 | Yù liú shí lì |
 | Route Table | 路由表 | Lù yóu biǎo |
 | Security Group | 安全组 | Ān quán zǔ |
 | Security Posture | 安全态势 | Ān quán tài shì |

@@ -1,6 +1,6 @@
 | English | Chinese | Hànyǔ Pīnyīn | Remarks |
 | ----------- | ----------- | ----------- | ----------- |
-| Access | 访问 | fǎng wèn | Another meaning of the Chinese term is "to interview (someone)". In the context of cloud computing, it means access.
+| Access | 访问 | Fǎng wèn | Another meaning of the Chinese term is "to interview (someone)". In the context of cloud computing, it means access.
 | API | 应用程序接口 | Yìng yòng chéng xù jiē kǒu |
 | Amazon Web Services | 亚马逊云科技 | Yà mǎ xùn yún kē jì |
 | Application | 应用程序 | Yìng yòng chéng xù | Application Server: 应用服务器 |
@@ -38,7 +38,7 @@
 | Network Access Control List (NACL) | 网络 ACL | Wǎng luò ACL |
 | Offload Traffic | 卸载流量 | Xiè zài liú liàng |
 | Operating System | 操作系统 | Cāo zuò xì tǒng |
-| Operation | 操作流程 | Cāo zuò liú chéng ｜
+| Operation | 操作流程 | Cāo zuò liú chéng |
 | Port | 端口 | Duān kǒu | In the context of TCP / UDP |
 | Principle of Least Privilege | 最小特权原则 | Zuì xiǎo tè quán yuán zé |
 | Queue | 队列 | Duì liè |

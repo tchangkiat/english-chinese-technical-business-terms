@@ -30,6 +30,7 @@
 | Fault Tolerance | 容错 | Róng cuò |
 | Function | 函数 | hán shù | In the context of code functions.
 | High Availability | 高可用 | Gāo kě yòng |
+| Landing Zone | 登陆区 | Dēng lù qū |
 | Load Balancer | 负载均衡器 | Fù zǎi jūn héng qì |
 | Logs | 日志 | Rìzhì |
 | Managed Service | 托管服务 | Tuō guǎn fú wù |
@@ -37,6 +38,7 @@
 | Network Access Control List (NACL) | 网络 ACL | Wǎng luò ACL |
 | Offload Traffic | 卸载流量 | Xiè zài liú liàng |
 | Operating System | 操作系统 | Cāo zuò xì tǒng |
+| Operation | 操作流程 | Cāo zuò liú chéng ｜
 | Port | 端口 | Duān kǒu | In the context of TCP / UDP |
 | Principle of Least Privilege | 最小特权原则 | Zuì xiǎo tè quán yuán zé |
 | Queue | 队列 | Duì liè |

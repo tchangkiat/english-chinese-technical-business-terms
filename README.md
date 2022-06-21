@@ -35,6 +35,7 @@
 | Logs | 日志 | Rìzhì |
 | Managed Service | 托管服务 | Tuō guǎn fú wù |
 | Microservice | 微服务 | Wéi fú wù |
+| Migration / Migrate | 迁移 | Qiān yí |
 | Network Access Control List (NACL) | 网络 ACL | Wǎng luò ACL |
 | Offload Traffic | 卸载流量 | Xiè zài liú liàng |
 | Operating System | 操作系统 | Cāo zuò xì tǒng |
@@ -56,6 +57,7 @@
 | Storage | 贮存 | Zhù cún |
 | Subnet | 子网 | Zǐ wǎng | Public Subnet: 公有子网, Private Subnet: 私有子网 |
 | Third Party Product | 第三方产品 | Dì sān fāng chǎn pǐn |
+| Transit Gateway | 中转网关 | Zhōng zhuǎn wǎng guān |
 | Transport Layer Security (TLS) | 传输层安全性 | Chuán shū céng ān quán xìng |
 | Virtual Machine | 虚拟机 | Xū nǐ jī |
 | Virtual Machine Instance | 虚拟实例 | Xū nǐ shí lì | Abbreviation: 实例 (instance) |

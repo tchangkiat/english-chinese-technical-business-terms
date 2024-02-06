@@ -18,6 +18,7 @@
 | Containerize | 容器化 | Róng qì huà |
 | Continuous Backup | 持续备份 | Chí xù bèi fèn |
 | Cost Optimization | 成本优化 | Chéng běn yōu huà |
+| Create a Support Ticket | 创建支持工单 | Chuàng jiàn zhī chí gōng dān |
 | Database | 数据库 | Shù jù kù |
 | Data Transfer | 数据传输 | Shù jù zhuàn shū |
 | Deploy | 部署 | Bù shǔ |
@@ -43,7 +44,6 @@
 | Port | 端口 | Duān kǒu | In the context of TCP / UDP |
 | Principle of Least Privilege | 最小特权原则 | Zuì xiǎo tè quán yuán zé |
 | Queue | 队列 | Duì liè |
-| Raise a Support Ticket | 申请支持票 | Shēn qǐng zhī chí piào |
 | Reserved Instances | 预留实例 | Yù liú shí lì |
 | Route Table | 路由表 | Lù yóu biǎo |
 | Security Group | 安全组 | Ān quán zǔ |
